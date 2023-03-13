@@ -30,3 +30,33 @@ color: #f8f8f8;
     align-items: center;
     
 }
+
+.imgs
+{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+
+    
+   
+}
+.js
+{
+    width: 70px;
+    height: 70px;
+}
+.py
+{
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+}
+
+.mysql
+{
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+}
