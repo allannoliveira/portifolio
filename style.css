@@ -58,3 +58,23 @@ color: #f8f8f8;
     width: 70px;
     height: 70px;
 }
+
+.links
+{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.github{
+    width: 100px;
+    height: 100px;
+}
+.linkedin{
+    margin-left: 0.8rem;
+    width: 100px;
+    height: 100px;
+}
+
